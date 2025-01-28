@@ -1,2 +1,2 @@
 # About Me
-- ### [Blog](https://jtsai1120.github.io/) 
+- ### [Blog](https://jtsai1120.com) 
